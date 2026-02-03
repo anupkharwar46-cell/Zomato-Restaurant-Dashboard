@@ -71,5 +71,6 @@ The dashboard includes:
 - Integrate customer review sentiment
 - Publish dashboard to Power BI Service
 - Add drill-through pages
-
+---
+https://github.com/anupkharwar46-cell/Zomato-Restaurant-Dashboard/blob/main/Screenshot%202026-02-03%20154620.png
 
