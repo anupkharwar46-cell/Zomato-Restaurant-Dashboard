@@ -19,8 +19,6 @@ The dashboard helps stakeholders understand:
 
 ---
 
-## 📂 Project Files
-
 
 ---
 
